@@ -7,3 +7,4 @@
 | 你不知道的 JavaScript（中卷） | JavaScript | ⭐⭐⭐⭐⭐ | ⭐⭐⭐⭐⭐ |
 | 你不知道的 JavaScript（下卷） | JavaScript | ⭐⭐⭐⭐⭐ | ⭐⭐⭐⭐⭐ |
 | CSS 揭秘                      | CSS        | ⭐⭐⭐⭐⭐ | ⭐⭐⭐     |
+| Jenkins 权威指南              | Other       | ⭐⭐⭐     | ⭐⭐⭐     |
