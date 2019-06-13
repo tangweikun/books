@@ -32,3 +32,7 @@
 | 前端工程化体系设计与实践                | -              | -          | -      | -                | -         |
 | JAVASCRIPT 性能优化：度量、监控与可视化 | JavaScript     | -          | -      | -                | PDF       |
 | Node.js 进阶之路                        | Node           | -          | -      | -                | PDF       |
+| 学习 JavaScript 数据结构与算法          | JavaScript     | -          | -      | -                | PDF       |
+| WEB 性能实践日志                        | -              | -          | -      | -                | PDF       |
+| JavaScript 函数式编程                   | JavaScript     | -          | -      | -                | -         |
+| Three.js 开发指南                       | JavaScript     | -          | -      | -                | -         |
