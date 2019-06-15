@@ -35,4 +35,10 @@
 | 学习 JavaScript 数据结构与算法          | JavaScript     | -          | -      | -                | PDF       |
 | WEB 性能实践日志                        | -              | -          | -      | -                | PDF       |
 | JavaScript 函数式编程                   | JavaScript     | -          | -      | -                | -         |
-| Three.js 开发指南                       | JavaScript     | -          | -      | -                | -         |
+| Three.js 开发指南                       | JavaScript     | -          | -      | -                | PDF       |
+| 高性能 JavaScript 编程                  | JavaScript     | -          | -      | -                | -         |
+| WebGL 编程指南                          | JavaScript     | -          | -      | -                | BPDF      |
+| Web 前端黑客技术                        | -              | -          | -      | -                | -         |
+| 响应式 Web 设计 HTML5 和 CSS3 实战      | -              | -          | -      | -                | PDF       |
+| 深入浅出 Node.js                        | Node           | -          | -      | -                | PDF       |
+| 深入理解 JavaScript                     | JavaScript     | -          | -      | -                | -         |
